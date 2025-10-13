@@ -1,0 +1,4 @@
+pyttsx3
+speechrecognition
+opencv-python
+opencv-contrib-python
