@@ -3,3 +3,4 @@ speechrecognition
 opencv-python
 opencv-contrib-python
 pillow
+numpy==1.26.3
